@@ -2,8 +2,8 @@
 LinageOS for SM-A310F (a3xeltex)
 
 **{Bug list}**
-Sim not detected
-Video Playback
+- Sim not detected
+- Video Playback
 
 **Information**
 - Original creator : _@aapav01_
