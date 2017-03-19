@@ -7,5 +7,5 @@ LinageOS for SM-A310F (a3xeltex)
 
 **Information**
 - Original creator : _@aapav01_
-- Contributors : _@Kqdi_, _@VictorLourme_, _@EmpireIsHere_
+- Contributors :  <a href="https://github.com/Kqdi/">@Kqdi</a> - <a href="https://github.com/VictorLourme/">@VictorLourme</a> - <a href="https://github.com/empireishere/">@EmpireIsHere</a>
 - Based on A310FXXU2BPG2
